@@ -1,0 +1,33 @@
+{
+  "_nota": "Ejemplo inventado para mostrar el formato. El negocio y los datos no son reales.",
+  "negocio": "Café La Ladera (ejemplo)",
+  "ganchos": [
+    {"id": "G01", "angulo": "precio por taza", "titulo": "CAFÉ DE ESPECIALIDAD A $450 LA TAZA", "texto": "¿Sabías que una taza de café de especialidad te puede salir $450?"},
+    {"id": "G02", "angulo": "cafe amargo", "titulo": "SI TU CAFÉ ES AMARGO, MIRA ESTO", "texto": "Si tu café en casa sale amargo, el problema no eres tú."},
+    {"id": "G03", "angulo": "tostado fecha", "titulo": "¿CUÁNDO SE TOSTÓ TU CAFÉ?", "texto": "Da vuelta tu bolsa de café. ¿Dice cuándo se tostó?"},
+    {"id": "G04", "angulo": "suscripcion", "titulo": "CAFÉ FRESCO EN TU PUERTA CADA MES", "texto": "Imagina que nunca más se te acaba el café."},
+    {"id": "G05", "angulo": "historia finca", "titulo": "DE LA FINCA A TU TAZA", "texto": "Mi papá cultivó café 30 años y nunca lo probó fresco."},
+    {"id": "G06", "angulo": "demostracion", "titulo": "MIRA LA DIFERENCIA EN 10 SEGUNDOS", "texto": "Mira lo que pasa cuando el café está recién tostado."},
+    {"id": "G07", "angulo": "regalo", "titulo": "EL REGALO PARA EL QUE TIENE TODO", "texto": "¿No sabes qué regalarle a quien ya tiene de todo?"},
+    {"id": "G08", "angulo": "cafeteria vs casa", "titulo": "CAFÉ DE CAFETERÍA, PRECIO DE CASA", "texto": "Gastas $3.000 en cada café de cafetería. Hay otra forma."},
+    {"id": "G09", "angulo": "pregunta directa", "titulo": "¿TOMAS CAFÉ TODOS LOS DÍAS?", "texto": "Si tomas café todos los días, esto es para ti."},
+    {"id": "G10", "angulo": "error comun", "titulo": "EL ERROR QUE ARRUINA TU CAFÉ", "texto": "Hay un error que casi todos cometen al guardar el café."}
+  ],
+  "cuerpos": [
+    {"id": "C01", "rol": "problema", "texto": "El café del supermercado puede llevar meses tostado, y ahí pierde casi todo su sabor."},
+    {"id": "C02", "rol": "problema", "texto": "Compras un café caro, lo preparas con cariño y igual queda plano y sin aroma."},
+    {"id": "C03", "rol": "mecanismo", "texto": "Nosotros tostamos cada lunes y lo despachamos el mismo día, así llega a tu casa con días, no meses."},
+    {"id": "C04", "rol": "mecanismo", "texto": "Eliges cómo lo preparas, en prensa, en cafetera o en moka, y te lo molemos justo para eso."},
+    {"id": "C05", "rol": "mecanismo", "texto": "Cada bolsa trae una tarjeta con la receta exacta: cuánto café, cuánta agua y cuánto tiempo."},
+    {"id": "C06", "rol": "prueba", "texto": "Este mes ya enviamos 420 bolsas, y la mitad son clientes que repiten."},
+    {"id": "C07", "rol": "prueba", "texto": "Laura nos escribió que es el primer café que su familia toma sin azúcar."},
+    {"id": "C08", "rol": "oferta", "texto": "La bolsa de 250 gramos cuesta $9.900 y te alcanza para unas 22 tazas."},
+    {"id": "C09", "rol": "oferta", "texto": "Con la suscripción mensual te llega sola, con envío gratis, y la pausas cuando quieras."},
+    {"id": "C10", "rol": "oferta", "texto": "Tu primera bolsa va con un 20% de descuento para que lo pruebes sin riesgo."}
+  ],
+  "ctas": [
+    {"id": "CTA1", "texto": "Toca el botón de abajo y pide tu primera bolsa."},
+    {"id": "CTA2", "texto": "Escríbenos por WhatsApp y te ayudamos a elegir."},
+    {"id": "CTA3", "texto": "Entra al link y arma tu suscripción en un minuto."}
+  ]
+}
